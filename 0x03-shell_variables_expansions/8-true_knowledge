@@ -1,2 +1,2 @@
-VimCrypt~03!•5>³0uÂ®ðœm5© ´rŽ¨ÉnÚFB+±ÓsêÏ_Ã#E«‡jÈ’ Ÿ¢;
-÷ýÄjrØ:
+#!/bin/bash
+echo $(($TRUEKNOWLEDGE + 128))
